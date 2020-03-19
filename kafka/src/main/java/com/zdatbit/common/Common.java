@@ -1,21 +1,16 @@
-package com.zdatbit.producer;
+package com.zdatbit.common;
 
 import org.apache.kafka.clients.CommonClientConfigs;
-import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
-import org.apache.kafka.clients.producer.ProducerRecord;
-import org.apache.kafka.clients.producer.RecordMetadata;
 
-import java.util.Map;
 import java.util.Properties;
-import java.util.concurrent.Future;
 
 /**
- * Created by zhangdi21 on 2020/3/17.
+ * Created by zhangdi21 on 2020/3/19.
  */
-public class Producer {
+public class Common {
 
-    public static void main(String[] args) {
+    public static Properties properties(){
         Properties properties = new Properties();
         //kafka集群
         properties.put(CommonClientConfigs.BOOTSTRAP_SERVERS_CONFIG,"");
@@ -34,8 +29,6 @@ public class Producer {
         //重试次数
         properties.put(CommonClientConfigs.RETRIES_CONFIG,3);
 
-        KafkaProducer<String,String> producer = new KafkaProducer(properties);
-        //发送消息
-        Future<RecordMetadata> send = producer.send(new ProducerRecord<String, String>("first", 1, "hello", "world"));
+        return properties;
     }
 }
