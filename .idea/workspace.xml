@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec3b1465-37b5-439f-b520-d73ce0601e0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/common/Common.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/partioner/MyPartioner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/producer/CallBackProducer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/producer/PartionerProducer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kafka/.gradle/4.4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/kafka/.gradle/4.4.1/fileHashes/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kafka/.gradle/4.4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kafka/.gradle/4.4.1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/cache-redis.iml" afterPath="$PROJECT_DIR$/.idea/modules/cache-redis.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/kafka_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/kafka_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/kafka_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/kafka_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/kafka/src/main/java/com.zdatbit.producer/Producer.java" afterPath="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/producer/Producer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kafka/src/main/resources/kafka.md" afterPath="$PROJECT_DIR$/kafka/src/main/resources/kafka.md" />
     </list>
     <ignored path="$PROJECT_DIR$/redis/target/" />
     <ignored path="$PROJECT_DIR$/kafka/.gradle/" />
@@ -140,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CallBackProducer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CallBackProducer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/producer/CallBackProducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="23" column="89" lean-forward="false" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
+            <state relative-caret-position="220">
+              <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,12 +138,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cache-redis.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/modules/cache-redis.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+      <file leaf-file-name="kafka.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kafka/src/main/resources/kafka.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="212">
+                <caret line="91" column="21" lean-forward="true" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -910,6 +899,7 @@
         <option value="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/producer/Producer.java" />
         <option value="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/producer/PartionerProducer.java" />
         <option value="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/producer/CallBackProducer.java" />
+        <option value="$PROJECT_DIR$/kafka/src/main/resources/kafka.md" />
       </list>
     </option>
   </component>
@@ -1053,6 +1043,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1656,7 +1650,7 @@
       <workItem from="1583975668379" duration="35000" />
       <workItem from="1583978569570" duration="588000" />
       <workItem from="1584496752529" duration="6102000" />
-      <workItem from="1584583228751" duration="1088000" />
+      <workItem from="1584583228751" duration="1329000" />
     </task>
     <servers />
   </component>
@@ -1666,7 +1660,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15562000" />
+    <option name="totallyTimeSpent" value="15803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1686,7 +1680,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21104388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.290469" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1731,7 +1725,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43987" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21104388" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.290469" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1753,13 +1747,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zdatbit/redis/study/util/RedisList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="67" column="32" lean-forward="false" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/redis/pom.xml" />
     <entry file="file://$PROJECT_DIR$/redis/src/test/java/com/zdatbit/redis/test.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1988,28 +1975,28 @@
         <state relative-caret-position="308">
           <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding>
-            <marker date="1584583417885" expanded="true" signature="114037:114056" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114037:114074" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114037:114087" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114037:114102" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114148:114187" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114222:115205" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114235:115190" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114286:114551" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114305:114536" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114338:114516" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114378:114482" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114399:114460" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114594:114859" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114613:114844" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114646:114824" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114686:114790" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114707:114768" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114911:115176" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114930:115161" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="114963:115141" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="115003:115107" ph="..." />
-            <marker date="1584583417885" expanded="true" signature="115024:115085" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132501:132518" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132501:132536" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132501:132549" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132501:132564" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132610:132649" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132684:133667" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132697:133652" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132748:133013" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132767:132998" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132800:132978" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132840:132944" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="132861:132922" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="133056:133321" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="133075:133306" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="133108:133286" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="133148:133252" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="133169:133230" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="133373:133638" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="133392:133623" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="133425:133603" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="133465:133569" ph="..." />
+            <marker date="1584584332414" expanded="true" signature="133486:133547" ph="..." />
           </folding>
         </state>
       </provider>
@@ -2117,11 +2104,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/producer/CallBackProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="23" column="89" lean-forward="false" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
+        <state relative-caret-position="220">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka/src/main/resources/kafka.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="212">
+            <caret line="91" column="21" lean-forward="true" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
