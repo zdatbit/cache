@@ -17,6 +17,11 @@
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/redis" />
         <option name="gradleHome" value="C:/mySoft/gradle-6.2.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/redis" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>

@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="kafka_main" target="1.8" />
       <module name="kafka_test" target="1.8" />
+      <module name="redis_main" target="1.8" />
+      <module name="redis_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
