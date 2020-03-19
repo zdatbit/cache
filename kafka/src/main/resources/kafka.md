@@ -7,17 +7,17 @@
    不对外提供随机读写
 
 2. kafka组成  
-   topic    消息主题，topic可以分成多个partion
-   message  消息
-   broker   kafka有多个实例组成，每个实例成为broker
-   consumer 消费者   如果订阅了某一主题，就会被广播给这些consumer；多个consumer可以组成一个group，这个message只能传输给某个group中的某一个consumer
-   producer 生产者   
+   topic        消息主题，topic可以分成多个partion
+   message      消息
+   broker       kafka有多个实例组成，每个实例成为broker
+   consumer     消费者   如果订阅了某一主题，就会被广播给这些consumer；多个consumer可以组成一个group，这个message只能传输给某个group中的某一个consumer
+   producer     生产者   
    partitions   底层是append log文件，任何发送到此partion的消息都会追加到log文件的尾部
-   segment  partion物理上有多个segment组成，segment有index file和data file两部分组成，表示索引文件和数据文件
-   offset   每条消息在文件中的位置称为offset
-   replicas  partion的备份数
-   leader    基于备份就以为着对多个备份进行调度，每一个partion都有一个leader，负责所有的读写操作
-   follower  只是单调的和leader进行跟进，同步消息
+   segment      partion物理上有多个segment组成，segment有index file和data file两部分组成，表示索引文件和数据文件
+   offset       每条消息在文件中的位置称为offset
+   replicas     partion的备份数
+   leader       基于备份就以为着对多个备份进行调度，每一个partion都有一个leader，负责所有的读写操作
+   follower     只是单调的和leader进行跟进，同步消息
 
 3. kafka基于文件存储
 ---

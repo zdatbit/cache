@@ -142,8 +142,8 @@
         <entry file="file://$PROJECT_DIR$/kafka/src/main/resources/kafka.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="512">
-                <caret line="92" column="23" lean-forward="false" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+              <first_editor relative-caret-position="330">
+                <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -1650,7 +1650,7 @@
       <workItem from="1583975668379" duration="35000" />
       <workItem from="1583978569570" duration="588000" />
       <workItem from="1584496752529" duration="6102000" />
-      <workItem from="1584583228751" duration="1642000" />
+      <workItem from="1584583228751" duration="1759000" />
     </task>
     <servers />
   </component>
@@ -1660,7 +1660,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16116000" />
+    <option name="totallyTimeSpent" value="16233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1975,28 +1975,28 @@
         <state relative-caret-position="308">
           <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding>
-            <marker date="1584584762478" expanded="true" signature="131007:131024" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131007:131042" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131007:131055" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131007:131070" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131116:131155" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131190:132173" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131203:132158" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131254:131519" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131273:131504" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131306:131484" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131346:131450" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131367:131428" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131562:131827" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131581:131812" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131614:131792" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131654:131758" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131675:131736" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131879:132144" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131898:132129" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131931:132109" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131971:132075" ph="..." />
-            <marker date="1584584762478" expanded="true" signature="131992:132053" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="130853:130870" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="130853:130888" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="130853:130901" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="130853:130916" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="130962:131001" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131036:132019" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131049:132004" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131100:131365" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131119:131350" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131152:131330" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131192:131296" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131213:131274" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131408:131673" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131427:131658" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131460:131638" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131500:131604" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131521:131582" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131725:131990" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131744:131975" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131777:131955" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131817:131921" ph="..." />
+            <marker date="1584584973168" expanded="true" signature="131838:131899" ph="..." />
           </folding>
         </state>
       </provider>
@@ -2115,8 +2115,8 @@
     <entry file="file://$PROJECT_DIR$/kafka/src/main/resources/kafka.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="512">
-            <caret line="92" column="23" lean-forward="false" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+          <first_editor relative-caret-position="330">
+            <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
