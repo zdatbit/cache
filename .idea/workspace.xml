@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec3b1465-37b5-439f-b520-d73ce0601e0f" name="Default" comment="">
+<<<<<<< Updated upstream
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kafka/src/main/resources/kafka.md" afterPath="$PROJECT_DIR$/kafka/src/main/resources/kafka.md" />
+=======
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_pool2_2_6_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__redis_clients_jedis_3_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/redis_main.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/redis_test.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/consumer/Consumer.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/cache-redis.iml" afterPath="$PROJECT_DIR$/.idea/modules/cache-redis.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/kafka/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/kafka/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/redis/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/redis/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/redis/.gradle/buildOutputCleanup/cache.properties" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/redis/target/" />
     <ignored path="$PROJECT_DIR$/kafka/.gradle/" />
@@ -10,6 +27,10 @@
     <ignored path="$PROJECT_DIR$/kafka/out/" />
     <ignored path="$PROJECT_DIR$/redis/.gradle/" />
     <ignored path="$PROJECT_DIR$/redis/build/" />
+<<<<<<< Updated upstream
+=======
+    <ignored path="$PROJECT_DIR$/redis/out/" />
+>>>>>>> Stashed changes
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +91,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< Updated upstream
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
@@ -147,35 +169,66 @@
                 <folding />
               </first_editor>
               <second_editor />
+=======
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis/src/test/java/com/zdatbit/redis/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="kafka.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/modules/kafka.iml">
+=======
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/consumer/Consumer.java">
+>>>>>>> Stashed changes
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="220">
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#355#371#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="kafka_main.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/modules/kafka_main.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kafka/src/main/java/com.zdatbit.producer/Producer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="kafka_test.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/modules/kafka_test.iml">
+=======
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis/build.gradle">
+>>>>>>> Stashed changes
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="220">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -196,14 +249,24 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
+<<<<<<< Updated upstream
         <entry key="$PROJECT_DIR$/kafka" value="D:\program\gradle-4.4.1" />
         <entry key="$PROJECT_DIR$/redis" value="D:\program\gradle-4.4.1" />
+=======
+        <entry key="$PROJECT_DIR$/kafka" value="C:\Users\zhangdi\.gradle\wrapper\dists\gradle-4.0-bin\3p92xsbhik5vmig8i90n16yxc\gradle-4.0" />
+        <entry key="$PROJECT_DIR$/redis" value="C:\mySoft\gradle-4.0.1" />
+>>>>>>> Stashed changes
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
+<<<<<<< Updated upstream
         <entry key="$PROJECT_DIR$/kafka" value="4.4.1" />
         <entry key="$PROJECT_DIR$/redis" value="4.4.1" />
+=======
+        <entry key="$PROJECT_DIR$/kafka" value="4.0" />
+        <entry key="$PROJECT_DIR$/redis" value="4.0.1" />
+>>>>>>> Stashed changes
       </map>
     </option>
     <option name="availableProjects">
@@ -724,6 +787,7 @@
               <option name="name" value="redis" />
               <option name="projectBuildClasspath">
                 <list>
+<<<<<<< Updated upstream
                   <option value="D:/program/gradle-4.4.1/src/announce" />
                   <option value="D:/program/gradle-4.4.1/src/antlr" />
                   <option value="D:/program/gradle-4.4.1/src/base-services" />
@@ -867,6 +931,77 @@
                   <option value="D:/program/gradle-4.4.1/lib/plugins/gradle-version-control-4.4.1.jar" />
                   <option value="D:/program/gradle-4.4.1/lib/plugins/gradle-workers-4.4.1.jar" />
                   <option value="D:/program/gradle-4.4.1/lib/plugins/ivy-2.2.0.jar" />
+=======
+                  <option value="C:/mySoft/gradle-4.0.1/lib/ant-1.9.6.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-base-services-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-base-services-groovy-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-cli-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-core-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-docs-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-installation-beacon-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-jvm-services-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-launcher-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-logging-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-messaging-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-model-core-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-model-groovy-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-native-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-process-services-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-resources-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-runtime-api-info-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-script-kotlin-0.9.0.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-script-kotlin-compiler-plugin-0.9.0.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-script-kotlin-tooling-builders-0.9.0.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-script-kotlin-tooling-models-0.9.0.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-tooling-api-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/gradle-wrapper-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/groovy-all-2.4.11.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-announce-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-antlr-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-build-cache-http-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-build-comparison-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-build-init-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-code-quality-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-composite-builds-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-dependency-management-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-diagnostics-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-ear-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-ide-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-ide-native-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-ide-play-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-ivy-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-jacoco-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-javascript-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-language-groovy-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-language-java-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-language-jvm-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-language-native-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-language-scala-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-maven-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-osgi-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-platform-base-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-platform-jvm-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-platform-native-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-platform-play-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-plugin-development-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-plugin-use-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-plugins-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-publish-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-reporting-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-resources-http-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-resources-s3-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-resources-sftp-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-scala-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-signing-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-test-kit-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-testing-base-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-testing-jvm-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-testing-native-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-tooling-api-builders-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/gradle-workers-4.0.1.jar" />
+                  <option value="C:/mySoft/gradle-4.0.1/lib/plugins/ivy-2.2.0.jar" />
+>>>>>>> Stashed changes
                   <option value="$PROJECT_DIR$/redis/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/redis/buildSrc/src/main/groovy" />
                 </list>
@@ -892,6 +1027,7 @@
         <option value="$PROJECT_DIR$/redis/src/main/java/com/zdatbit/redis/study/util/RedisList.java" />
         <option value="$PROJECT_DIR$/redis/settings.gradle" />
         <option value="$PROJECT_DIR$/redis/build.gradle" />
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/kafka/src/main/java/com.zdatbit.producer/Producer.java" />
         <option value="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/partioner/MyPartioner.java" />
         <option value="$PROJECT_DIR$/kafka/src/main/java/com.zdatbit.producer/PartionerProducer.java" />
@@ -900,6 +1036,9 @@
         <option value="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/producer/PartionerProducer.java" />
         <option value="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/producer/CallBackProducer.java" />
         <option value="$PROJECT_DIR$/kafka/src/main/resources/kafka.md" />
+=======
+        <option value="$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/consumer/Consumer.java" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -947,8 +1086,10 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
+<<<<<<< Updated upstream
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="cache" />
@@ -1155,6 +1296,101 @@
       </pane>
       <pane id="Scope" />
       <pane id="AndroidView" />
+=======
+          <expand>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.zdatbit.producer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+>>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1649,8 +1885,13 @@
       <workItem from="1583457528236" duration="590000" />
       <workItem from="1583975668379" duration="35000" />
       <workItem from="1583978569570" duration="588000" />
+<<<<<<< Updated upstream
       <workItem from="1584496752529" duration="6102000" />
       <workItem from="1584583228751" duration="1759000" />
+=======
+      <workItem from="1584496752529" duration="7308000" />
+      <workItem from="1584698695629" duration="239000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -1660,11 +1901,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="16233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
+=======
+    <option name="totallyTimeSpent" value="15919000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+>>>>>>> Stashed changes
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1680,9 +1928,15 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< Updated upstream
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.290469" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18656716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+>>>>>>> Stashed changes
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1691,9 +1945,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+<<<<<<< Updated upstream
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42361864" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> Stashed changes
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1752,6 +2012,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+<<<<<<< Updated upstream
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -1773,6 +2039,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+<<<<<<< Updated upstream
+=======
+          <folding />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -1788,6 +2058,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+<<<<<<< Updated upstream
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -1809,6 +2085,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+<<<<<<< Updated upstream
+=======
+          <folding />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -1824,6 +2104,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+<<<<<<< Updated upstream
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -1838,6 +2124,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
           <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+<<<<<<< Updated upstream
+=======
+          <folding />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -1845,6 +2135,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+<<<<<<< Updated upstream
         </state>
       </provider>
     </entry>
@@ -1852,6 +2143,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
           <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+=======
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -1898,14 +2191,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kafka/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kafka/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1920,29 +2205,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/src/test/java/com/zdatbit/redis/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/redis/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/redis/redis.iml" />
+    <entry file="file://$PROJECT_DIR$/redis/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+=======
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="160">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1950,7 +2228,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1958,20 +2235,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="240">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+=======
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-920">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules/cache-redis.iml">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="176">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules/kafka.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules/kafka_main.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules/kafka_test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/.gradle/checksums/checksums.lock">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="308">
           <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding>
@@ -1998,10 +2321,14 @@
             <marker date="1584584973168" expanded="true" signature="131817:131921" ph="..." />
             <marker date="1584584973168" expanded="true" signature="131838:131899" ph="..." />
           </folding>
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules/cache-redis.iml">
+    <entry file="file://$PROJECT_DIR$/kafka/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2009,32 +2336,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules/kafka.iml">
+    <entry file="file://$PROJECT_DIR$/redis/.gradle/6.2.2/gc.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/.gradle/6.2.2/fileHashes/fileHashes.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka/.gradle/buildOutputCleanup/cache.properties.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <entry file="file://$PROJECT_DIR$/redis/.gradle/buildOutputCleanup/cache.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="744" column="0" lean-forward="false" selection-start-line="744" selection-start-column="0" selection-end-line="744" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/zdatbit/redis/study/util/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules/kafka_main.iml">
+    <entry file="file://$PROJECT_DIR$/redis/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules/kafka_test.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/.gradle/checksums/checksums.lock">
-      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="0">
           <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
         </state>
@@ -2044,10 +2392,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+=======
+        <state relative-caret-position="220">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="jar://D:/gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/2.4.1/af64aa4e230dd87a7fabce2bc8c6008bf6f3befc/kafka-clients-2.4.1-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -2060,10 +2413,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+=======
+    <entry file="file://$PROJECT_DIR$/redis/src/test/java/com/zdatbit/redis/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/common/Common.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
@@ -2080,14 +2450,30 @@
           <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/consumer/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#355#371#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/kafka/src/main/java/com/zdatbit/producer/Producer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/kafka/src/main/java/com.zdatbit.producer/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
