@@ -1,13 +1,10 @@
 package com.zdatbit.producer;
 
-import com.zdatbit.common.Common;
-import org.apache.kafka.clients.CommonClientConfigs;
+import com.zdatbit.common.ProducerCommon;
 import org.apache.kafka.clients.producer.KafkaProducer;
-import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.clients.producer.ProducerRecord;
 import org.apache.kafka.clients.producer.RecordMetadata;
 
-import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.Future;
 
@@ -17,7 +14,7 @@ import java.util.concurrent.Future;
 public class Producer {
 
     public static void main(String[] args) {
-        Properties properties = Common.properties();
+        Properties properties = ProducerCommon.properties();
 
         KafkaProducer<String,String> producer = new KafkaProducer(properties);
         //发送消息

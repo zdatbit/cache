@@ -1,6 +1,6 @@
 package com.zdatbit.producer;
 
-import com.zdatbit.common.Common;
+import com.zdatbit.common.ProducerCommon;
 import org.apache.kafka.clients.producer.*;
 
 import java.util.Properties;
@@ -12,7 +12,7 @@ import java.util.Properties;
 public class PartionerProducer {
 
     public static void main(String[] args) {
-        Properties properties = Common.properties();
+        Properties properties = ProducerCommon.properties();
         properties.put(ProducerConfig.PARTITIONER_CLASS_CONFIG,"com.zdatbit.partioner.MyPartioner");
 
         KafkaProducer<String, String> producer = new KafkaProducer<>(properties);

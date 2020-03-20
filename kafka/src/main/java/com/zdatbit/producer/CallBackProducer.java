@@ -1,10 +1,8 @@
 package com.zdatbit.producer;
 
-import com.zdatbit.common.Common;
-import org.apache.kafka.clients.producer.Callback;
+import com.zdatbit.common.ProducerCommon;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerRecord;
-import org.apache.kafka.clients.producer.RecordMetadata;
 
 import java.util.Properties;
 
@@ -15,7 +13,7 @@ public class CallBackProducer {
 
     public static void main(String[] args) {
 
-        Properties properties = Common.properties();
+        Properties properties = ProducerCommon.properties();
 
         KafkaProducer<String, String> producer = new KafkaProducer<>(properties);
 

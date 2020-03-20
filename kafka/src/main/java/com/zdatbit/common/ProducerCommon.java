@@ -8,7 +8,7 @@ import java.util.Properties;
 /**
  * Created by zhangdi21 on 2020/3/19.
  */
-public class Common {
+public class ProducerCommon {
 
     public static Properties properties(){
         Properties properties = new Properties();
