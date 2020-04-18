@@ -184,7 +184,7 @@
 	  
 	 
 ##	发布订阅：
-   subscribe channel [channel]  麻阅  
+   subscribe channel [channel]  订阅  
    publish 	channel message 向频道发送消息  
    unsubscribe channel   退订  
    `应用场景`：构建实时消息系统
